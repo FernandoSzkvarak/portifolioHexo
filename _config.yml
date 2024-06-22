@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: Portifolio - Fernando Szkvarak Desengrini
+subtitle: 'Métodos numéricos para ajuste de curvas'
+description: 'Um portfólio detalhando os métodos numéricos para ajuste de curvas aprendidos na disciplina de Cálculo Numérico.'
+keywords: 'interpolação, métodos numéricos, cálculo, matemática'
+author: Fernando Szkvarak
 language: en
-timezone: ''
+timezone: 'America/Sao_Paulo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
